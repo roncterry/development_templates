@@ -1,0 +1,14 @@
+LibreOffice Formatting HotKeys:
+---------------------------------------------
+
+Use                             Format          Style               Hotkey
+---                             ------          -----               ------
+Emphasis                        Bold            SUSE-emphasis       Ctrl+Shift+E
+Light Emphasis                  Bold Gray       SUSE-emphasis.light Ctrl+Shift+Q
+Warning                         Bold Red        SUSE-warning        Ctrl+Shift+W
+Lab Variable                    Bold+Italic     SUSE-variable       Ctrl+Shift+V
+Console/file contents           Black+monospace SUSE-monospace      Ctrl+Shift+M
+Commands                        Blue+monospace  SUSE-command        Ctrl+Shift+C
+Filenames and paths             Green+monospace SUSE-filename       Ctrl+Shift+N
+
+extra space before/after text   n/a             SUSE-extra_spacing  Ctrl+Shift+S

@@ -1,6 +1,6 @@
 # Introduction to the Course Materials Development Templates
 
-This contains the template for creating SUSE Training slides, lecture manuals and lab manuals.  All templates are for use with LibreOffice.
+This repository contains the templates for creating SUSE Training slides, lecture manuals and lab manuals.  All templates are for use with LibreOffice.
 
 ## Styles
 

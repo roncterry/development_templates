@@ -41,6 +41,25 @@ To make cross platform/OS development easier and to provide consistent output, t
 
 Ensure that these fonts are installed before working with the templates.
 
+## Graphics
+
+There are two graphics that are provided for use when creating Note/Tip/Warning/Important block in the lab manual: `lightbulb-yellow-gray.png`, `warning-red-triangle.png`
+
+These graphics should reside an a subdirectory of your course development directory named **graphics**.
+
+Any other graphics such as screenshots should also reside in the **graphics** directory or subdirectories of the **graphics** directory.
+
+**Example directory structure:**
+
+```
+course_name/
+           |-graphics/
+                     |-lightbulb-yellow-gray.png
+                     |-warning-red-triangle.png
+
+
+```
+
 ## Lab Manual
 
 Lab manuals are created using a modular approach. The lab manual itself is a master document (.odm) file. Each exercise is its own separate document and each section divider is its own separate document. 
@@ -57,6 +76,10 @@ If you have a section that does not have any corresponding exercises, put a copy
 
 ```
 course_name/
+           |-graphics/
+           |         |-lightbulb-yellow-gray.png
+           |         |-warning-red-triangle.png
+           |
            |-lab/
                 |-LAB_MANUAL-course_name.odm
                 |-NO_EXERCISES.odt
@@ -85,6 +108,10 @@ All section oriented slides should reside in a directory named slides in your co
 
 ```
 course_name/
+           |-graphics/
+           |         |-lightbulb-yellow-gray.png
+           |         |-warning-red-triangle.png
+           |
            |-slides/
            |       |-SECTION-01-section_title.odp
            |       |-SECTION-02-section_title.odp
@@ -119,6 +146,10 @@ The lecture manual slide deck should reside in a lecture subdirectory of your co
 
 ```
 course_name/
+           |-graphics/
+           |         |-lightbulb-yellow-gray.png
+           |         |-warning-red-triangle.png
+           |
            |-slides/
            |       |-SECTION-01-section_title.odp
            |       |-SECTION-02-section_title.odp
@@ -147,6 +178,10 @@ When the course manual development is complete the lab manual and lecture manual
 
 ```
 course_name/
+           |-graphics/
+           |         |-lightbulb-yellow-gray.png
+           |         |-warning-red-triangle.png
+           |
            |-slides/
            |       |-SECTION-01-section_title.odp
            |       |-SECTION-02-section_title.odp

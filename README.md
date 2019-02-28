@@ -206,11 +206,13 @@ course_name/
                 |-LECTURE_MANUAL-course_name.pdf
 ```
 
-When generating the Lecture manual PDF from the Lecture Manual slide deck, ensure that Export notes pages and Export only notes pages are selected: 
+When generating the Lecture manual PDF from the Lecture Manual slide deck, ensure that **Export notes pages** and **Export only notes pages** are selected: 
 
 **File -> Export as PDF** (**Export notes pages**: checked, **Export only notes pages**: checked)
 
 
+# HowTo Videos
+(forthcoming)
 
 
 

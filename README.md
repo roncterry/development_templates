@@ -212,7 +212,7 @@ When generating the Lecture manual PDF from the Lecture Manual slide deck, ensur
 
 
 # HowTo Videos
-(forthcoming)
+(coming soon)
 
 
 
